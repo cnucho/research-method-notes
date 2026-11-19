@@ -1,2 +1,7 @@
-# research-method-notes
-Public, reusable notes on research calculations and visualizations. No study data.
+# 연구방법 계산 노트
+
+연구 표의 분모, 방향, 집계 규칙을 재사용 가능한 수식으로 정리하는 공개 문서함입니다. 개별 조사 데이터와 원본 파일은 보관하지 않습니다.
+
+## 문서
+
+- [브랜드 간 선택·배제 경쟁구도 계산식](docs/brand-choice-exclusion-pairs.md)
